@@ -2,7 +2,7 @@
   "name": "language-knockout",
   "version": "0.0.1",
   "private": true,
-  "description": "",
+  "description": "Grammar support for Knockout templates",
   "keywords": [
     "language",
     "knockout"
