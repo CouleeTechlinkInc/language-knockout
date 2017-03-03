@@ -8,10 +8,10 @@
     "knockout"
   ],
   "author": {
-    "name": "Bryan Morris",
+    "name": "Bryan Morris ( small patch by Tim Holum )",
     "url": "https://github.com/internalfx"
   },
-  "repository": "https://github.com/internalfx/language-knockout",
+  "repository": "https://github.com/CouleeTechlinkInc/language-knockout.git",
   "license": "ISC",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
