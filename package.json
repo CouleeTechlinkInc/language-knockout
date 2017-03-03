@@ -1,5 +1,5 @@
 {
-  "name": "language-knockout",
+  "name": "language-knockout-v2",
   "version": "0.2.0",
   "private": true,
   "description": "Grammar support for Knockout templates",
